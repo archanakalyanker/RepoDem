@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C6FD-B87B
+
+ Directory of C:\Users\akkal\Desktop\New folder
+
+29-11-2022  18:58    <DIR>          .
+29-11-2022  18:58    <DIR>          ..
+29-11-2022  18:58                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  872,116,436,992 bytes free
